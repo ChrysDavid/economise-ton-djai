@@ -1,9 +1,6 @@
-```markdown
 # Gestionnaire de Finances Personnelles  
 
-Une application mobile Flutter permettant de gérer ses finances de manière simple, efficace, et personnalisée. Ce projet a pour objectif de fournir des outils intuitifs et des analyses détaillées pour aider les utilisateurs à mieux contrôler leurs dépenses et économiser intelligemment.  
-
----
+Une application mobile Flutter permettant de gérer ses finances de manière simple, efficace, et personnalisée. Ce projet a pour objectif de fournir des outils intuitifs et des analyses détaillées pour aider les utilisateurs à mieux contrôler leurs dépenses et économiser intelligemment. 
 
 ## 🚀 Fonctionnalités  
 
@@ -47,7 +44,6 @@ Une application mobile Flutter permettant de gérer ses finances de manière sim
 - Notifications pour alerter des limites de dépenses.  
 - Conseils personnalisés grâce à une IA intégrée.  
 
----
 
 ## 🛠️ Technologies utilisées  
 
@@ -64,7 +60,6 @@ Une application mobile Flutter permettant de gérer ses finances de manière sim
 ### 📊 Analyses et conseils :  
 - **IA intégrée** : Fournir des analyses économiques et des recommandations personnalisées.  
 
----
 
 ## 📂 Structure du projet  
 
@@ -78,7 +73,6 @@ lib/
 ├── utils/        # Fonctions utilitaires et constantes  
 ```  
 
----
 
 ## 🛠️ Installation et exécution  
 
@@ -104,8 +98,6 @@ lib/
    flutter run  
    ```  
 
----
-
 ## 📑 Contribuer  
 
 Les contributions sont les bienvenues ! Voici comment participer :  
@@ -120,7 +112,6 @@ Les contributions sont les bienvenues ! Voici comment participer :
    ```  
 4. Poussez votre branche et soumettez une Pull Request.  
 
----
 
 ## 🧑‍💻 Auteur  
 
@@ -130,11 +121,6 @@ Les contributions sont les bienvenues ! Voici comment participer :
 
 📧 Contactez-moi : [broudavidchrys@iit.ci](mailto:broudavidchrys@iit.ci)  
 
----
-
 ## 📝 Licence  
 
-Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus d’informations.  
-```  
-
-Tu peux personnaliser ce fichier selon tes besoins ou y ajouter des sections supplémentaires.
+Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus d’informations. 
